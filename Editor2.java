@@ -21,6 +21,6 @@ public class Editor2 {
 		StdDraw.pause(3000); 
 		// Displays the scaled image.
 		Runigram.setCanvas(scaledImage);
-		Runigram.display(scaledImage);					
+		Runigram.display(scaledImage);	
 	}
 }
